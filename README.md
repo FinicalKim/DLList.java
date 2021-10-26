@@ -3,7 +3,7 @@ A program that implements a DLList data structure
 package SLL;
 /*CSC 205: 12247 / Asynchronous (no meets)
 Minilab: # 6 DLL
-Author: Kim Finical & ID# 36283133
+Author: Kim Finical
 Description: This program is a doubly linked list structure.
 */
 //This class implements a Singly Linked List
