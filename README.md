@@ -1,2 +1,2 @@
 # DLList.java
-A program that implements a DLList data structure
+A program that implements a DLList data structure.
